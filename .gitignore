@@ -35,3 +35,6 @@
 VERSION.txt
 build/
 CMakeUserPresets.json
+.cache
+compile_commands.json
+temp.*
